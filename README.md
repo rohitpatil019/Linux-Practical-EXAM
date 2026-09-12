@@ -65,22 +65,6 @@ Linux-Practical-EXAM/
 │   ├── public/
 │   ├── private/
 │   └── shared/
-│
-├── screenshots/
-│   ├── Q1.png
-│   ├── Q2.png
-│   ├── Q3.png
-│   ├── Q4.png
-│   ├── Q5.png
-│   ├── Q6.png
-│   ├── Q7.png
-│   ├── Q8.png
-│   ├── Q9.png
-│   ├── Q10.png
-│   └── Q11.png
-│
-└── README.md
-```
 
 ---
 
